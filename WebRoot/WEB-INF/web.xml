@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToIndexCl</servlet-name>
+    <servlet-class>com.student.controller.GoToIndexCl</servlet-class>
+  </servlet>
+ 
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToPageCl</servlet-name>
+    <servlet-class>com.student.controller.GoToPageCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ExcuteCl</servlet-name>
+    <servlet-class>com.student.controller.ExcuteCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CommandInfoCl</servlet-name>
+    <servlet-class>com.student.controller.CommandInfoCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToWriteResume</servlet-name>
+    <servlet-class>com.student.controller.GoToWriteResume</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckStateCl</servlet-name>
+    <servlet-class>com.student.controller.CheckStateCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToWatchResume</servlet-name>
+    <servlet-class>com.student.controller.GoToWatchResume</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>OperationCl</servlet-name>
+    <servlet-class>com.student.controller.OperationCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToUpdateResume</servlet-name>
+    <servlet-class>com.student.controller.GoToUpdateResume</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GotoCompanyIndexCl</servlet-name>
+    <servlet-class>com.company.controller.GotoCompanyIndexCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToCompanyPageCl</servlet-name>
+    <servlet-class>com.company.controller.GoToCompanyPageCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CompanyExcuteCl</servlet-name>
+    <servlet-class>com.company.controller.CompanyExcuteCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoToSelectResumeCl</servlet-name>
+    <servlet-class>com.company.controller.GoToSelectResumeCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CompanyOperationCl</servlet-name>
+    <servlet-class>com.company.controller.CompanyOperationCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CreateCode</servlet-name>
+    <servlet-class>com.student.utils.CreateCode</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginCl</servlet-name>
+    <servlet-class>com.comm.loginCotroller.LoginCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ForwardCl</servlet-name>
+    <servlet-class>com.admin.controller.ForwardCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AuditStuCl</servlet-name>
+    <servlet-class>com.admin.controller.AuditStuCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>EvaluationStuCl</servlet-name>
+    <servlet-class>com.admin.controller.EvaluationStuCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ManageComCl</servlet-name>
+    <servlet-class>com.admin.controller.ManageComCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegisterStuComCl</servlet-name>
+    <servlet-class>com.admin.controller.RegisterStuComCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelComInfoCl</servlet-name>
+    <servlet-class>com.admin.controller.SelComInfoCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelStuAuditCl</servlet-name>
+    <servlet-class>com.admin.controller.SelStuAuditCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelStuEvaCl</servlet-name>
+    <servlet-class>com.admin.controller.SelStuEvaCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelStuInfoCl</servlet-name>
+    <servlet-class>com.admin.controller.SelStuInfoCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateAdminInfoCl</servlet-name>
+    <servlet-class>com.admin.controller.UpdateAdminInfoCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateStuInfoCl</servlet-name>
+    <servlet-class>com.admin.controller.UpdateStuInfoCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UploadExcelCl</servlet-name>
+    <servlet-class>com.admin.controller.UploadExcelCl</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>GoToIndexCl</servlet-name>
+    <url-pattern>/GoToIndexCl</url-pattern>
+  </servlet-mapping>
+ 
+
+  <servlet-mapping>
+    <servlet-name>GoToPageCl</servlet-name>
+    <url-pattern>/GoToPageCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ExcuteCl</servlet-name>
+    <url-pattern>/ExcuteCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CommandInfoCl</servlet-name>
+    <url-pattern>/CommandInfoCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoToWriteResume</servlet-name>
+    <url-pattern>/GoToWriteResume</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckStateCl</servlet-name>
+    <url-pattern>/CheckStateCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoToWatchResume</servlet-name>
+    <url-pattern>/GoToWatchResume</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OperationCl</servlet-name>
+    <url-pattern>/OperationCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoToUpdateResume</servlet-name>
+    <url-pattern>/GoToUpdateResume</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GotoCompanyIndexCl</servlet-name>
+    <url-pattern>/GotoCompanyIndexCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoToCompanyPageCl</servlet-name>
+    <url-pattern>/GoToCompanyPageCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CompanyExcuteCl</servlet-name>
+    <url-pattern>/CompanyExcuteCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoToSelectResumeCl</servlet-name>
+    <url-pattern>/GoToSelectResumeCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CompanyOperationCl</servlet-name>
+    <url-pattern>/CompanyOperationCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CreateCode</servlet-name>
+    <url-pattern>/CreateCode</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginCl</servlet-name>
+    <url-pattern>/LoginCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ForwardCl</servlet-name>
+    <url-pattern>/ForwardCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AuditStuCl</servlet-name>
+    <url-pattern>/AuditStuCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EvaluationStuCl</servlet-name>
+    <url-pattern>/EvaluationStuCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ManageComCl</servlet-name>
+    <url-pattern>/ManageComCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterStuComCl</servlet-name>
+    <url-pattern>/RegisterStuComCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelComInfoCl</servlet-name>
+    <url-pattern>/SelComInfoCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelStuAuditCl</servlet-name>
+    <url-pattern>/SelStuAuditCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelStuEvaCl</servlet-name>
+    <url-pattern>/SelStuEvaCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelStuInfoCl</servlet-name>
+    <url-pattern>/SelStuInfoCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateAdminInfoCl</servlet-name>
+    <url-pattern>/UpdateAdminInfoCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateStuInfoCl</servlet-name>
+    <url-pattern>/UpdateStuInfoCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UploadExcelCl</servlet-name>
+    <url-pattern>/UploadExcelCl</url-pattern>
+  </servlet-mapping>
+
+</web-app>

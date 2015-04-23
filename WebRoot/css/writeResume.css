@@ -1,0 +1,27 @@
+.stu_write_resume{
+	width: 900px;
+	height:950px;
+	float: left;
+	margin-top: 50px;
+	
+}
+.stu_person_info{
+	width: 900px;
+	float: left;
+	
+}
+.stu_person_info table{
+	width: 900px;
+	height:500px;
+	margin-top: 10px;
+	margin-right: 180px;
+	float: left;
+
+}
+.stu_person_info span{
+	display:block;
+	float: right;
+	margin-top: 10px;
+	margin-left:450px;
+	
+}

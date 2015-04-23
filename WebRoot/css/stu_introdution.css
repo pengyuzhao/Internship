@@ -1,0 +1,48 @@
+.select_stu_intrudution{
+	
+	width: 900px;
+	height:500px;
+	
+	float: left;
+	margin-top: 50px;
+
+}
+.select_button{
+	width: 900px;
+	height:100px;
+	float: left;
+	
+	
+	}
+.select_button hr{
+	margin-top: 30px;
+	}
+.select_stu_content,.examine_admin_content{
+		width: 900px;
+		float: left;
+	}
+.select_stu_content table{
+	width: 800px;
+	margin-left:50px;	
+	float: left;
+	}
+	table {
+	
+	border-width:thick;
+	}
+.examine_admin_content span{
+	margin-right:50px;
+	float:right;
+	}
+.update_admin_content span{
+	float:right;
+}
+.select_stu_content span{
+	margin-right:50px;
+	float:right;
+	padding:7px;
+	display: block;
+	
+	
+}
+

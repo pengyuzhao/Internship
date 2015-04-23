@@ -1,0 +1,84 @@
+body{
+	font-size: 12px;
+	margin: 0px auto;
+	width: 900px;
+}
+
+.font_style1{
+	
+   
+	font-weight: bold;
+	color:#0D205B;
+	
+}
+<!--导航部分-->
+.stu_top_img{
+	width:900px;
+	height: 180px;
+	float: left;
+}
+.stu_function_frame{
+	width:900px;
+	height: 30px;
+	float: left;
+	
+}
+.stu_function_choose1{
+	
+		width:100px;
+		height:25px;
+		float: left;	
+}
+.stu_function_choose2
+{
+		width:137px;
+		height:25px;
+		float: left;	
+}
+.stu_function_choose3
+{
+		width:227px;
+		height:25px;
+		float: left;	
+}
+.stu_function_choose4
+{
+		width:175px;
+		height:25px;
+		float: left;	
+}
+.stu_function_choose5
+{
+		width:163px;
+		height:25px;
+		float: left;	
+}
+.stu_function_choose6
+{
+	
+		height:25px;
+		float: left;	
+		width:98px;
+}
+a:LINK {
+	text-decoration: none;
+}
+<!--updatapassword.jsp和 uload.jsp的表格相同部分-->
+.stu_table_show{
+	width:900px;
+	height:500px;
+	float:left;
+	
+}
+.stu_table_show table{
+	margin-top:100px;
+	margin-left:250px;
+	border: none;
+	float:left;
+
+}
+.location{
+	margin-left:250px;
+	float:right;
+}
+

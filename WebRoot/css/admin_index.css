@@ -1,0 +1,108 @@
+<!--管理员页面的导航部分 -->
+
+
+.admin_top_img{
+	width:900px;
+	height: 180px;
+	float: left;
+}
+.admin_function_frame{
+	width:900px;
+	height: 50px;
+	float: left;
+
+}
+.admin_function_choose1{
+	
+		width:80px;
+		height:25px;
+		float: left;	
+		
+}
+.admin_function_choose2
+{
+		width:180px;
+		height:25px;
+		float: left;	
+}
+.admin_function_choose3
+{
+		width:140px;
+		height:25px;
+		float: left;	
+}
+.admin_function_choose4
+{
+		width:140px;
+		height:25px;
+		float: left;	
+}
+.admin_function_choose5
+{
+		width:162px;
+		height:25px;
+		float: left;	
+}
+.admin_function_choose6
+{
+	
+		height:25px;
+		float: left;	
+		width:130px;
+}
+.admin_function_choose7
+{
+	
+		height:25px;
+		float: left;	
+		width:50px;
+}
+.select_admin_content table{
+	width: 650px;
+	margin-left:100px;	
+	float: left;}
+	.select_admin_content span{
+	margin-right:50px;
+	float:right;
+	}
+	
+	
+	.examine_admin_content table {
+	width: 820px;
+	float: left;
+	margin-left:35px;
+	}
+	.update_admin_content{
+	width: 950px;
+	float: left;
+	}
+	.update_admin_content table{
+	width: 900px;
+	float: left;
+
+	
+	}
+	.updatestu_table_show{
+	width:900px;
+	height:500px;
+	float:left;
+	
+	}
+	.updatestu_table_show table{
+	margin: auto;
+	margin-top: 80px;
+	}
+	.location{
+	margin-left: 250px;
+	
+	
+	}
+.update_admin_content span{
+	float:right;
+}
+.button_location{
+	
+	margin-left: 55px;
+	padding: 20px;
+}
+	
